@@ -1,2 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-http://learnm2.netlify.com/* http://learnm2.com/:splat 301!
+/ https://courses.markshust.com/p/setup-magento-2-development-environment-docker 301
